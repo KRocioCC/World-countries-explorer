@@ -8,5 +8,5 @@ import { RouterLink } from '@angular/router';
   templateUrl: './home-page.html',
 })
 export class HomePage {
-  currentYear = new Date().getFullYear();
+
 }

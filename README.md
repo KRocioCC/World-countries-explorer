@@ -35,3 +35,7 @@ npx tailwindcss init
 ### Instalamos daisyUI 4
 https://v4.daisyui.com/docs/themes/
 npm install -D daisyui@4
+
+### Para Iconos
+https://icon-sets.iconify.design/
+
