@@ -1,9 +1,12 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-home-page',
   standalone: true,
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './home-page.html',
 })
-export class HomePage {}
+export class HomePage {
+  currentYear = new Date().getFullYear();
+}
