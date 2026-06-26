@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Instalamos Tailwind CSS 3
+https://tailwindcss.com/docs/installation/framework-guides/angular
+
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init
+
+### Instalamos daisyUI 4
+https://v4.daisyui.com/docs/themes/
+npm install -D daisyui@4
