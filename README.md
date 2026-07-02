@@ -39,3 +39,8 @@ npm install -D daisyui@4
 ### Para Iconos
 https://icon-sets.iconify.design/
 
+### API de paises
+https://restcountries.com/
+https://api.restcountries.com/countries/v5
+
+
